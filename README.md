@@ -1,32 +1,30 @@
-### Hi there 👋
-🌱 I’m currently learning
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" widht="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" widht="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" widht="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" widht="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" widht="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" widht="40" height="40"/>
-<a src="https://www.linkedin.com/in/pablinesamara/" alt="link redes" ></a>
-  <h3>Minhas Redes Sociais</h3>
-  <a>https://www.linkedin.com/in/pablinesamara/</a>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" widht="40" height="40"/>
-</a>
-          
-🔭 I’m currently working as a driver for apps
-          
-          
 
-<!--
-**pablinesamara/pablinesamara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá, eu sou a Pabline! 👋
+Seja bem vindo ao meu GitHub Aqui você vai ver um pouco mais sobre os meus conhecimentos em desenvolvimento web e JAVA e outras tecnologias ao qual venho trabalhando ou estudando.
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
+Estudante de Analise e Desenvolvimento de Sistemas.
+Mãe de 4 filhos formada em Logistica  resolvi migrar para a area de tecnologia justamente por eles e percebi que gosto muito e aprendo fácil Então estou agora me dedicando a linguagem Java.
+Sou muito dedicada aos estudos o que me ajuda muito.
+Estou aberta sugestões que possam trazer incremento a minha carreira.
 
-- 🔭 I’m currently working on ...drive car app
-- 🌱 I’m currently learning ...java, mysql, HTML,CSS,JS, AWS
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👩‍💻 Trabalho atualmente como motorista autonoma.
+
+🧠 Estou aprendendo programação JAVA
+
+👯‍♀️ Procuro colaborar em projetos que possam trazer crescimento e melhoria a quem precisar mesmo que eu não saiba eu tento buscar o conhecimento necessário.
+
+💬 Me pergunte sobre: o que preferir se eu não souber digo que não sei e se possível procuro 1 resposta certa.
+
+📫 Como entrar em contato comigo
+pablineribeirodev@gmail.com
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/pablinesamara)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablinesamara/)
+
+
+
+## 🛠 Habilidades
+JAVA, SQL, HTML, CSS, Javascript, Python e AWS.
+

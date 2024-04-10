@@ -14,8 +14,6 @@ Estou aberta sugestões que possam trazer incremento a minha carreira.
 
 👯‍♀️ Procuro colaborar em projetos que possam trazer crescimento e melhoria a quem precisar mesmo que eu não saiba eu tento buscar o conhecimento necessário.
 
-💬 Me pergunte sobre: o que preferir se eu não souber digo que não sei e se possível procuro 1 resposta certa.
-
 📫 Como entrar em contato comigo
 pablineribeirodev@gmail.com
 

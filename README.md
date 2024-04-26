@@ -1,16 +1,18 @@
 
-# Olá, eu sou a Pabline! 👋
-Seja bem vindo ao meu GitHub Aqui você vai ver um pouco mais sobre os meus conhecimentos em desenvolvimento web e JAVA e outras tecnologias ao qual venho trabalhando ou estudando.
-
+#👋Oiii, Eu sou Pabline 
+Seja Bem Vindo ao meu GitHub, Aqui voce vai ver um pouco mais sobre os meus Aprendizados e projetos em Desenvolvimento ao qual venho trabalhando ou estudando.
+👋 Hello, I'm Pabline! 
+Welcome to my github, here you will see some of my projects and learning.
+<br>
 ## 🚀 Sobre mim
 Estudante de Analise e Desenvolvimento de Sistemas.
-Mãe de 4 filhos formada em Logistica  resolvi migrar para a area de tecnologia justamente por eles e percebi que gosto muito e aprendo fácil Então estou agora me dedicando a linguagem Java.
-Sou muito dedicada aos estudos o que me ajuda muito.
+Mãe de 4 filhos, formada em Logistica  resolvi migrar para a area de tecnologia por eles e por que amo muito e achava fácil(até começar a aprender de verdade).<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">😃</font></font>
+Sou muito dedicada aos estudos e decidi sair do meu antigo trabalho pois não estava conseguindo avançar.
 Estou aberta sugestões que possam trazer incremento a minha carreira.
 
-👩‍💻 Trabalho atualmente como motorista autonoma.
+👩‍💻 Trabalhei por 5 anos como motorista por app.
 
-🧠 Estou aprendendo programação JAVA
+🧠 Estou aprendendo Design Ux/UI mas pretendo retomar em breve a programação Java.
 
 👯‍♀️ Procuro colaborar em projetos que possam trazer crescimento e melhoria a quem precisar mesmo que eu não saiba eu tento buscar o conhecimento necessário.
 
@@ -24,5 +26,19 @@ pablineribeirodev@gmail.com
 
 
 ## 🛠 Habilidades
-JAVA, SQL, HTML, CSS, Javascript, Python e AWS.
+HTML, CSS, JS ,JAVA,Kotlin, SQL,  Python e AWS.
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 

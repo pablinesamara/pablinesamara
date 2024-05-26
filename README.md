@@ -17,7 +17,7 @@ Estou aberta sugestões que possam trazer incremento a minha carreira.
 👯‍♀️ Procuro colaborar em projetos que possam trazer crescimento e melhoria a quem precisar mesmo que eu não saiba eu tento buscar o conhecimento necessário.
 
 📫 Como entrar em contato comigo
-pablineribeirodev@gmail.com
+pablinesamara@gmail.com
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/pablinesamara)

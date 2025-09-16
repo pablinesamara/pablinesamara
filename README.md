@@ -12,9 +12,9 @@ Estou aberta sugestões que possam trazer incremento a minha carreira.
 
 👩‍💻 Trabalhei por 5 anos como motorista por app.
 
-🧠 Estou aprendendo Design Ux/UI mas pretendo retomar em breve a programação Java.
+🧠 Sou estudante de Ciencia de Dados pela Univesp enquanto me aperfeiçoando na area de analise de dados.
 
-👯‍♀️ Procuro colaborar em projetos que possam trazer crescimento e melhoria a quem precisar mesmo que eu não saiba eu tento buscar o conhecimento necessário.
+👯‍♀️ Procuro colaborar em projetos que possam trazer crescimento mutuo e melhoria a quem precisar sempre buscando ganhar conhecimento necessário.
 
 📫 Como entrar em contato comigo
 pablinesamara@gmail.com
@@ -26,7 +26,7 @@ pablinesamara@gmail.com
 
 
 ## 🛠 Habilidades
-HTML, CSS, JS ,JAVA,Kotlin, SQL,  Python e AWS.
+Python, Power Bi, SQL e Aws além de conhecimentos em HTML, CSS, JS ,JAVA e Kotlin.
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
